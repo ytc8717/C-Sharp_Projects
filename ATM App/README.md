@@ -1,5 +1,6 @@
 # ATM App (C#)
-- An ATM App (console application) written in C#
+- An ATM App built with C#
+- Implemented login/logout, balance check, deposit, withdrawal, transfer, and view transactions functionalities
 
 The ATM App is able to:
 - Login account with card number and pin
