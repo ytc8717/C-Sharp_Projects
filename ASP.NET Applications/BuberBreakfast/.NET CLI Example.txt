@@ -1,0 +1,10 @@
+Create SLN Template	- dotnet new sln -o BuberBreakfast
+Create Class Library	- dotnet new classlib -o BuberBreakfast.Contracts
+Create Web API		- dotnet new webapi -o BuberBreakfast
+Build Project		- dotnet build
+Add Projects to SLN	- dotnet sln add .\BuberBreakfast.Contracts\ .\BuberBreakfast\
+Alt Way to add to sln	- dotnet sln add (ls -r **/*.csproj)
+Add Reference		- dotnet add .\BuberBreakfast\ reference .\BuberBreakfast.Contracts\
+Run Project			- dotnet run --project .\BuberBreakfast\
+VS code Quick Action	- Ctrl + .
+Error Handle Package	- dotnet add .\BuberBreakfast\ package ErrorOr
