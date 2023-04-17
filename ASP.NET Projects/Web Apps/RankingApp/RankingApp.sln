@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RankingApp", "RankingApp\RankingApp.csproj", "{5C13ED59-6B39-4714-A6F5-9304C81F3FB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C13ED59-6B39-4714-A6F5-9304C81F3FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C13ED59-6B39-4714-A6F5-9304C81F3FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C13ED59-6B39-4714-A6F5-9304C81F3FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C13ED59-6B39-4714-A6F5-9304C81F3FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE7D845F-78CA-4BCF-92AC-E9089984E140}
+	EndGlobalSection
+EndGlobal
